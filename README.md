@@ -1,0 +1,2 @@
+# Virat-Kohli-Cricket-Analytics-Performance-Analysis-and-Predictive-Modeling-Using-Machine-Learning
+This project analyzes Virat Kohli’s cricket performance using historical match data. It applies data analysis, visualization, and machine learning techniques to identify performance trends, key batting patterns, and factors affecting scores, while building predictive models to estimate future performance.
