@@ -50,7 +50,7 @@ Virat-Kohli-Cricket-Analytics-Performance-Analysis-and-Predictive-Modeling-Using
 - **Language:** Python
 - **Data Handling:** Pandas, NumPy
 - **Visualization:** Matplotlib, Seaborn, Plotly
-- **Machine Learning:** Scikit-Learn (and PyTorch/TensorFlow if deep learning is used)
+- **Machine Learning:** Scikit-Learn 
 - **Environment:** Jupyter Notebook
 
 ## 📊 Dataset
